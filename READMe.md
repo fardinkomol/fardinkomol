@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi! I am Fardin. I'm an aspiring software developer passionate about coding, problem-solving, and innovation. Currently, I'm on a journey to master programming languages like Python and JavaScript. Eager to collaborate on exciting projects, I'm dedicated to continuous learning and shaping a career in the dynamic world of software development.<br>
+Hi! I am Fardin. I'm an aspiring software developer passionate about coding, problem-solving, and innovation. Currently, I'm on a journey to master programming languages like Python and JavaScript. Eager to collaborate on exciting projects, I'm dedicated to continuous learning and shaping a career in the dynamic world of software development.
+My email: fardinalam2020@gmail.com
+<br>
 
 
 # 💻 Tech Stack:
