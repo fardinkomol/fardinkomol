@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Fardin. I'm an aspiring software developer passionate about coding, problem-solving, and innovation. Currently, I'm on a journey to master programming languages like Python and JavaScript. Eager to collaborate on exciting projects, I'm dedicated to continuous learning and shaping a career in the dynamic world of software development.
+Hi! I am Fardin. As a web developer, I design and build immersive online experiences. Proficient in HTML, CSS, and JavaScript, I strive to create user-friendly, visually appealing websites that make an impact.
 <br>
 My email: fardinalam2020@gmail.com
 <br>
